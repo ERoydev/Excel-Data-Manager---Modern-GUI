@@ -2,7 +2,7 @@
 <h3 align="center">Excel_Data_Manager</h3>
 
   <p align="center">
-    Simple project created with tkinter and customtkinter to look like modern styled application. It takes the excel file and show the data in treeview table you can search specifially for one or 5 parameters to find the data that you are looking for.
+    Created with tkinter and customtkinter to look like modern styled application. It takes the excel file and show the data in treeview table you can search specifially for one or 5 parameters to find the data that you are looking for.
   </p>
 
 <div align="center">
